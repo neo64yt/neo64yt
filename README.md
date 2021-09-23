@@ -14,4 +14,4 @@ whoami
 * Interested in suckless software
 * That's all you need to know. Now stop reading this!
 
-Neocities site (WIP): https://neo64yt.neocities.org
+Neocities site (WIP): https://neo64yt.github.io/
