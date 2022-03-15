@@ -2,13 +2,12 @@
 
 ![profile](neo64-new.png)
 
-* A stranger you found on Github
+* Your friendly Internet stranger
 * A random guy you found on [YouTube](https://www.youtube.com/channel/UCPUeyD6WkLAN_idjMHVPBWw)
 * A tech & Linux enthusiast 💻🐧
-* For some reason, he has a very [questionable but useful (not sure about this) repository](https://github.com/neo64yt/hello-collection)
-* Still learning 👀
-* Interested in suckless software
-* That's all you need to know. Now stop reading this!
+* Still learning 👀📚
+* A suckless fanboy
+* That's all you need to know about me. Now stop reading this!
 
 My website (WIP): https://neo64yt.github.io/
 
