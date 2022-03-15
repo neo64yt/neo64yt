@@ -1,9 +1,5 @@
 # Neo64YT
 
-```
-whoami
-```
-
 ![profile](neo64-new.png)
 
 * A stranger you found on Github
@@ -14,4 +10,6 @@ whoami
 * Interested in suckless software
 * That's all you need to know. Now stop reading this!
 
-Neocities site (WIP): https://neo64yt.github.io/
+My website (WIP): https://neo64yt.github.io/
+
+**NOTE**: I'm currently migrating all of my repositories (including my website) to Codeberg. However, they'll still be available on GitHub and GitLab as mirrors.
