@@ -1,7 +1,5 @@
 # Neo64YT
 
-![profile](neo64-new.png)
-
 * Your friendly Internet stranger
 * A random guy you found on [YouTube](https://www.youtube.com/channel/UCPUeyD6WkLAN_idjMHVPBWw)
 * A tech & Linux enthusiast 💻🐧
