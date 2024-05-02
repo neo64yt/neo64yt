@@ -1,13 +1,4 @@
 # Neo64YT
 
-* Proudly a Muslim
-* Your friendly Internet stranger
-* A random guy you found on [YouTube](https://www.youtube.com/channel/UCPUeyD6WkLAN_idjMHVPBWw)
-* A tech & Linux enthusiast 💻🐧
-* Still learning 👀📚
-* A suckless fanboy
-* That's all you need to know about me. Now stop reading this!
-
-My website (WIP): https://neo64yt.github.io/
-
-**NOTE**: I'm currently migrating all of my repositories (including my website) to Codeberg. However, they'll still be available on GitHub and GitLab as mirrors.
+## Notice
+Almost all of my repositories are now primarily hosted on [Codeberg](https://codeberg.org) and this account only serves as a mirror to my [account there](https://codeberg.org/neo64yt) (except for my "fork" of [revanced-magisk-module](https://github.com/neo64yt/revanced-magisk-module), as this repository relies heavily on GitHub Actions). Any opened issue or pull request to one of my repositories on GitHub will be simply ignored. So, please go to Codeberg instead or better yet, send me an email.
